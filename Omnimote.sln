@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnimote", "Omnimote\Omnimote.csproj", "{814AF894-ABB5-41C5-902C-A71C89F1A44A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMFx.Math", "..\NETMFx.Math\NETMFx.Math.csproj", "{1B3F1E67-90AC-4E5D-AC07-C04536A33D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMFx.Joystick", "..\NETMFx.Joystick\NETMFx.Joystick.csproj", "{0CC6EF74-06B2-40E3-9568-70F96DC0F06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMFx.Wireless", "..\NETMFx.Wireless\NETMFx.Wireless.csproj", "{11615685-083B-4AD5-AB1C-7EC8AA635898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMFx.Collections", "..\NETMFx.Collections\NETMFx.Collections.csproj", "{AEB5AC51-BD1A-48F0-B600-A7EB838F1392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{814AF894-ABB5-41C5-902C-A71C89F1A44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814AF894-ABB5-41C5-902C-A71C89F1A44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814AF894-ABB5-41C5-902C-A71C89F1A44A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{814AF894-ABB5-41C5-902C-A71C89F1A44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814AF894-ABB5-41C5-902C-A71C89F1A44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814AF894-ABB5-41C5-902C-A71C89F1A44A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1B3F1E67-90AC-4E5D-AC07-C04536A33D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3F1E67-90AC-4E5D-AC07-C04536A33D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3F1E67-90AC-4E5D-AC07-C04536A33D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3F1E67-90AC-4E5D-AC07-C04536A33D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC6EF74-06B2-40E3-9568-70F96DC0F06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC6EF74-06B2-40E3-9568-70F96DC0F06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC6EF74-06B2-40E3-9568-70F96DC0F06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC6EF74-06B2-40E3-9568-70F96DC0F06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11615685-083B-4AD5-AB1C-7EC8AA635898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11615685-083B-4AD5-AB1C-7EC8AA635898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11615685-083B-4AD5-AB1C-7EC8AA635898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11615685-083B-4AD5-AB1C-7EC8AA635898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB5AC51-BD1A-48F0-B600-A7EB838F1392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB5AC51-BD1A-48F0-B600-A7EB838F1392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB5AC51-BD1A-48F0-B600-A7EB838F1392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB5AC51-BD1A-48F0-B600-A7EB838F1392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
